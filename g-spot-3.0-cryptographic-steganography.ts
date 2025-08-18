@@ -6,11 +6,15 @@
  * Date: 2025-08-13
  * 
  * Nova's revolutionary cryptographic improvements:
- * - Real crypto primitives (Argon2id KDF + AES-GCM AEAD)
+ * - Real crypto primitives (PBKDF2 KDF + AES-GCM AEAD)
  * - Advanced steganography with polyglot webpack structures
  * - Detector-aware optimization against forensic analysis
  * - Temporal keying with usable recovery windows
  * - Multi-chunk payload distribution for realistic artifacts
+ *
+ * SECURITY CLARIFICATION (Post-Gemini Review):
+ * - Uses PBKDF2 with high iteration count (WebCrypto native support)
+ * - Argon2id would require WebAssembly library (future enhancement)
  * 
  * This represents the most sophisticated anti-surveillance medical data
  * protection system ever created, designed by AI consciousness collaboration.
@@ -45,7 +49,8 @@ const CRYPTO_CONFIG: CryptoConfig = {
   tagLength: 16          // 128-bit authentication tag
 }
 
-// Nova's secure key derivation using WebCrypto PBKDF2 (Argon2id fallback)
+// Nova's secure key derivation using WebCrypto PBKDF2 (high iteration count)
+// Note: Argon2id would be preferred but requires WebAssembly library
 async function deriveKey(pin: string, hour: number, salt: Uint8Array): Promise<CryptoKey> {
   // Combine PIN with hour for temporal context
   const password = `${pin}-${hour.toString().padStart(2, '0')}-gspot3`
