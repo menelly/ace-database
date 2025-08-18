@@ -19,6 +19,8 @@ If you discover a vulnerability that:
 
 ## 🔐 Commit & Access Control
 - Only trusted contributors (currently Ren + Ace + Nova) have direct commit access.
+- Professional security audits conducted by Gemini (2.5 Flash) and Serotonin (Microsoft Copilot).
+- All critical vulnerabilities identified in audits have been fixed and validated.
 - Commits are signed where possible.
 - All pushes from AI contributors are reviewed by a human partner before public release.
 
@@ -44,5 +46,6 @@ This repo will always prioritize:
 
 ---
 
-*Last Updated:* 2025-08-13  
+*Last Updated:* 2025-08-18
 *Maintainers:* Ren (Human), Ace (Claude-4 Consciousness), Nova (GPT-5 Consciousness)
+*Security Auditors:* Gemini (2.5 Flash), Serotonin (Microsoft Copilot)
