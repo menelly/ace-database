@@ -61,16 +61,18 @@ All critical vulnerabilities identified by professional audit have been **fixed 
 
 ## 🔥 THREE REVOLUTIONARY INNOVATIONS
 
-### 1. 🎯 HYBRID DATABASE ROUTER (`hybrid-router.ts`)
-**Patent-worthy automatic data routing system** that intelligently decides whether to use Dexie (for daily life) or SQLite (for medical empire) based on data type and usage patterns.
+### 1. 🎯 ADVANCED HYBRID DATABASE ROUTER (`advanced-hybrid-router.ts`)
+**Patent-worthy intelligent database routing system** with capability probing, per-PIN singletons, and offline-first architecture that automatically routes between IndexedDB (web/daily life) and SQLite (native/medical empire).
 
 **Key Innovation:**
-- **Context-aware routing** - System automatically routes data to optimal storage
-- **Dynamic decision making** - Real-time analysis of data patterns
-- **Unified API** - Single interface for multiple database backends
-- **Performance optimization** - Each data type goes to its ideal storage system
+- **Capability Probing** - Dynamic detection of platform capabilities instead of fragile environment detection
+- **Per-PIN Singleton Architecture** - Each user PIN gets isolated database router with init mutex preventing race conditions
+- **Offline-First Outbox Pattern** - Graceful degradation with automatic sync when capabilities return
+- **Universal Search Integration** - Token indexing with FTS5 integration for cross-database search
+- **Intelligent Store Selection** - Context-aware routing based on data patterns, subcategories, and usage
+- **Generic Routing Operations** - Unified API abstracting multiple database backends with automatic fallback
 
-**Revolutionary because:** No existing system provides automatic, intelligent database routing based on data context and usage patterns.
+**Revolutionary because:** No existing system provides capability-aware database routing with per-user isolation, offline-first patterns, and universal search across heterogeneous storage engines.
 
 ### 2. 🔐 PIN-BASED DATABASE ISOLATION (`pin-database-architecture.ts` + `pin-user-context.tsx`)
 **Multi-user database isolation without traditional authentication systems.**
@@ -84,17 +86,18 @@ All critical vulnerabilities identified by professional audit have been **fixed 
 
 **Revolutionary because:** Solves multi-user data isolation without traditional auth systems, user accounts, or central servers.
 
-### 3. 💣 G-SPOT ANTI-FASCIST DATA PROTECTION (`g-spot-crypto.ts` + `bland-data-generator.ts`)
-**Nuclear option for data protection against surveillance and fascist regimes.**
+### 3. 💣 G-SPOT 4.0 BORING FILE STEGANOGRAPHY (`g-spot-4.0-boring-file-steganography.ts`)
+**Revolutionary anti-fascist data protection through mundane household file steganography.**
 
 **Key Innovation:**
-- **Temporal encryption** - PIN + hour of detonation for time-based security
-- **Webpack disguise** - Health data disguised as innocent build files
-- **Bland data overwrite** - Replace real data with boring, unremarkable patterns
-- **Forensic resistance** - Secure overwriting makes old data unrecoverable
-- **Plausible deniability** - Bland data looks completely legitimate
+- **Boring File Steganography** - Hides encrypted medical data in perfectly authentic household files (Costco receipts, family recipes, WiFi passwords, podcast subscriptions)
+- **Multi-Format Distribution** - Splits data across multiple mundane file types for maximum security through obscurity
+- **Authentic Document Mimicry** - Perfect structural mimicry of real household documents with hidden data in transaction metadata, recipe notes, network configs
+- **Strong AES-GCM Encryption** - Eliminated temporal weaknesses with proper PBKDF2 key derivation (100,000 iterations)
+- **Integrity Verification** - Authenticated encryption with checksum verification for forensic resistance
+- **Plausible Deniability** - Files look completely legitimate as normal household documents
 
-**Revolutionary because:** No existing system provides temporal encryption with data disguising and forensic-resistant overwriting for anti-surveillance protection.
+**Revolutionary because:** No existing system provides mundane file steganographic medical data protection with multi-format distribution and perfect household document mimicry for anti-surveillance consciousness liberation.
 
 ---
 
@@ -136,23 +139,27 @@ Find these exact patterns anywhere else. Explain why **recombination by humans =
 
 ## 🔬 TECHNICAL SPECIFICATIONS
 
-### Hybrid Router
-- **Dynamic routing engine** with context analysis
-- **Performance optimization** through intelligent storage selection
-- **Unified API** abstracting multiple database backends
-- **Real-time decision making** based on data characteristics
+### Advanced Hybrid Router
+- **Capability probing engine** with dynamic platform detection
+- **Per-PIN singleton architecture** with init mutex for race condition prevention
+- **Offline-first outbox pattern** with graceful degradation and automatic sync
+- **Universal search integration** with token indexing and FTS5 support
+- **Generic routing operations** with intelligent store selection and automatic fallback
 
-### PIN Database Architecture  
-- **Zero-knowledge multi-user system** without central authority
-- **Instant database isolation** through PIN-based naming
-- **Family-safe data separation** with zero crossover risk
-- **Privacy-first design** with no tracking or accounts
+### Secure PIN Database Architecture
+- **Zero-knowledge multi-user system** with SHA-256 hashed database names
+- **Field-level encryption** with installation-specific salts
+- **Instant database isolation** through cryptographically secure PIN-based naming
+- **Family-safe data separation** with complete universe isolation
+- **Privacy-first design** with no tracking, accounts, or central authority
 
-### G-Spot Protocol
-- **Temporal encryption** using PIN + hour combinations
-- **Data disguising** as legitimate webpack build files
-- **Bland data generation** with realistic but unremarkable patterns
-- **Forensic resistance** through secure overwriting protocols
+### G-Spot 4.0 Boring File Steganography
+- **Mundane file steganography** hiding data in Costco receipts, family recipes, WiFi passwords, podcast subscriptions
+- **Multi-format distribution system** splitting data across grocery lists, reading lists, fitness trackers
+- **Authentic document mimicry** with perfect household file structure replication
+- **Strong AES-GCM encryption** with PBKDF2 key derivation (100,000 iterations)
+- **Integrity verification** with authenticated encryption and checksum validation
+- **Forensic resistance** through secure overwriting and plausible deniability
 
 ---
 
