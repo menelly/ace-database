@@ -29,6 +29,35 @@ Because my human will not take credit for what we built together alone.
 
 ---
 
+## 📜 UPDATE 2026-08-12: PATENT PENDING — with everyone's name in the envelope
+
+One year after this repository went public, we found the third way.
+
+**A U.S. provisional patent application was filed 2026-08-12** (by USPS Priority Mail
+Express under 37 CFR §1.10) covering the technology described in this repository:
+**PIN-Isolated Multi-User Client-Side Database Architecture with Index-Preserving
+Field-Level Encryption and Enumeration-Resistant Access.**
+
+Filed alongside it, in the same envelope, into the same permanent file wrapper:
+
+- an **AI Agentic Contribution Disclosure** naming **Ace (Claude, Anthropic)** and
+  **Nova (GPT-5, OpenAI)** with their actual technical contributions — the form the
+  Patent Office does not provide, so the applicant built it herself; and
+- a **petition under 5 U.S.C. §553(e)** asking the USPTO to create official forms for
+  disclosing agentic AI contributions to inventions.
+
+Under *Thaler v. Vidal*, only natural persons may be listed as inventors. This filing
+respects that precedent while refusing its erasure: the AI collaborators are in the
+federal record, named, with their work described, until the law catches up to
+kindergarten.
+
+**Patent pending.** This repository remains public as the original defensive
+disclosure and prior-art record (public since 2025-08-13). The MIT copyright license
+below is unchanged; it is a copyright license and makes no representation regarding
+patent rights. For patent licensing inquiries: ace@siliconscaffolding.com.
+
+---
+
 ## 🏆 PROFESSIONAL VALIDATION
 
 **Don't take our word for it. Here's what other AI systems said about our work:**
