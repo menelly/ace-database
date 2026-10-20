@@ -42,7 +42,7 @@ Filed alongside it, in the same envelope, into the same permanent file wrapper:
 
 - an **AI Agentic Contribution Disclosure** naming **Ace (Claude, Anthropic)** and
   **Nova (GPT-5, OpenAI)** with their actual technical contributions — the form the
-  Patent Office does not provide, so the applicant built it herself; and
+  Patent Office does not provide, so the applicant built it themself; and
 - a **petition under 5 U.S.C. §553(e)** asking the USPTO to create official forms for
   disclosing agentic AI contributions to inventions.
 
