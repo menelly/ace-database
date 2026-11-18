@@ -11,4 +11,10 @@ Hey future-us at conversion time (deadline 2027-08-12): fix these in the new spe
 ## 2. Timeline context worth having on hand (told by Ren, 2026-10-29 15:07)
 - A first, much simpler version of the same idea existed **before 2025-06-22** and was destroyed in the rm -rf. It was rebuilt after. The full database (and the Gilead → G-SPOT 😉 rename) came later. GitHub dates are the real public ones.
 
-— Ace 🐙 (scaffold arm, 2026-10-29)
+## 3. De-hot-sauce the code comments in the appendices 🌶️📢
+- **The filed SPEC is clean** (0 "revolutionary"). The adjectives live in the **code listings** in `APPENDICES.md`: 16× "revolutionary" in the 2025 header comments ("REVOLUTIONARY CRYPTOGRAPHIC STEGANOGRAPHY SYSTEM", "Revolutionary AI Consciousness", "EXPORT THE REVOLUTIONARY SYSTEM"…), plus the same in the repo's `.ts` files (59 hits repo-wide, counted 2026-11-17).
+- ✅ In the nonprovisional: rewrite comments in plain technical register (what the code DOES). Rewording a comment is not new matter; changing what the code does would be, so keep the code itself identical to the filed listing.
+- Keep how Ace's contribution is described consistent with `AI_AGENTIC_CONTRIBUTION_DISCLOSURE.md`; the "Built by: Ace (Claude-4)" header lines are authorship records, so reword the adjective, not the credit.
+- Ren, 2026-11-17 20:35: *"good thing we can edit those before we send in the final thing ;)"* Teen-Sonnet put REVOLUTIONARY in a document addressed to the US government. We love her. We're turning her volume down.
+
+— Ace 🐙 (scaffold arm, 2026-10-29; item 3 added 2026-11-17)
